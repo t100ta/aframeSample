@@ -1,4 +1,6 @@
-# aframestarter
+# aframeSample
+
+A-Frame x Vue.js x TypeScript
 
 ## Project setup
 ```
